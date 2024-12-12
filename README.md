@@ -1,7 +1,6 @@
 ## 👋 Hi there
 
-👨‍💻 Étudiant en développement web à l'IIM
-Passionné par la programmation et le développement web, je suis actuellement à la recherche d'un stage de 2 à 4 mois à partir de mi-avril 2025. Toujours en quête de nouveaux défis, je suis motivé pour mettre en pratique mes connaissances et améliorer mes compétences.
+👨‍💻 Étudiant en développement web à l'IIM et passionné par la programmation et le développement web, je suis actuellement à la recherche d'un stage de 2 à 4 mois à partir de mi-avril 2025. Toujours en quête de nouveaux défis, je suis motivé pour mettre en pratique mes connaissances et améliorer mes compétences.
 
 📍 Compétences :
 
