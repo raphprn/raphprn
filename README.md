@@ -6,6 +6,7 @@ Passionné par la programmation et le développement web, je suis actuellement �
 📍 Compétences :
 
 💡 Langages : HTML, CSS, JavaScript, TypeScript, PHP, MySQL, Node.js, Python
+
 🌱 En apprentissage : React.js, Vue.js, Angular, Next.js, Express.js, C, C++
 
 Objectif : Contribuer à des projets passionnants et enrichissants tout en développant des solutions performantes et évolutives.
